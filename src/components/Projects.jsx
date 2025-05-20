@@ -12,7 +12,7 @@ const Projects = () => {
       id: 1,
       title: 'Astro Buy Ecommerce',
       description: 'Proyecto Final de React JS en coderhouse, un ecommerce de productos de tecnologia.',
-      image: '/public/assets/preview-astro buy.png',
+      image: 'assets/preview-astro buy.png',
       tags: ['React', 'Tailwind CSS', 'Web'],
       liveUrl: 'https://astro-buy-eight.vercel.app/',
       repoUrl: 'https://github.com/leoaa02/ProyectoFinalEcommerce-Alcala'
@@ -21,7 +21,7 @@ const Projects = () => {
       id: 2,
       title: 'Sonic Flow',
       description: 'Single Page de Musica, con una interfaz de usuario moderna y reactiva desarrollada con React, brindando una experiencia fluida e intuitiva. ',
-      image: '/public/assets/sonic-flow-image.png',
+      image: '/assets/sonic-flow-image.png',
       tags: ['React', 'JavaScript', 'Web'],
       liveUrl: 'https://sonic-flow-lake.vercel.app/',
       repoUrl: 'https://github.com/leoaa02/Proyecto-SonicFlow'
