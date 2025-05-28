@@ -26,6 +26,15 @@ const Projects = () => {
       liveUrl: 'https://sonic-flow-lake.vercel.app/',
       repoUrl: 'https://github.com/leoaa02/Proyecto-SonicFlow'
     },
+    {
+      id: 3,
+      title: 'Pocket Plan',
+      description: 'Simulador de gastos personales que te ayuda a organizar tu presupuesto de forma visual e intuitiva. Ideal para planificar tus finanzas semanales o mensuales JavaScript, HTML, CSS',
+      image: '/assets/pocket-plan-cover.png',
+      tags: ['CSS', 'JavaScript', 'Web'],
+      liveUrl: 'https://leoaa02.github.io/ProyectoFinal--Alcala/',
+      repoUrl: 'https://github.com/leoaa02/ProyectoFinal--Alcala'
+    }
     
   ];
 
