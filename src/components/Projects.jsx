@@ -34,6 +34,15 @@ const Projects = () => {
       tags: ['CSS', 'JavaScript', 'Web'],
       liveUrl: 'https://leoaa02.github.io/ProyectoFinal--Alcala/',
       repoUrl: 'https://github.com/leoaa02/ProyectoFinal--Alcala'
+    },
+    {
+      id: 4,
+      title: 'Cafe del Sol',
+      description: 'Sitio web de prueba para una cafetería diseñado con HTML, CSS y JavaScript. Presenta un diseño atractivo y funcional para mostrar productos, promociones y captar la atención de los clientes de forma clara e intuitiva. Ideal como prototipo de presencia online para negocios.',
+      image: '/assets/preview-sampleProject.png',
+      tags: ['CSS', 'JavaScript', 'Web'],
+      liveUrl: 'https://leoaa02.github.io/Cafe-del-Sol--Sample-Project/',
+      repoUrl: 'https://github.com/leoaa02/Cafe-del-Sol--Sample-Project'
     }
     
   ];
