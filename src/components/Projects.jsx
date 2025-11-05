@@ -48,7 +48,7 @@ const Projects = () => {
       id: 5,
       title: 'Planify',
       description: 'Simulador de gastos personales que te ayuda a organizar tu presupuesto de forma visual e intuitiva. Ideal para planificar tus finanzas semanales o mensuales',
-      image: '/public/assets/planify-preview.png',
+      image: '/assets/planify-preview.png',
       tags: ['CSS', 'JavaScript', 'Web'],
       liveUrl: 'https://planify-proyect-knrd9qz8g-leoaa02s-projects.vercel.app/',
       repoUrl: 'https://github.com/leoaa02/planify-proyect'
