@@ -43,6 +43,15 @@ const Projects = () => {
       tags: ['CSS', 'JavaScript', 'Web'],
       liveUrl: 'https://leoaa02.github.io/Cafe-del-Sol--Sample-Project/',
       repoUrl: 'https://github.com/leoaa02/Cafe-del-Sol--Sample-Project'
+    },
+    {
+      id: 5,
+      title: 'Planify',
+      description: 'Simulador de gastos personales que te ayuda a organizar tu presupuesto de forma visual e intuitiva. Ideal para planificar tus finanzas semanales o mensuales',
+      image: '/public/assets/planify-preview.png',
+      tags: ['CSS', 'JavaScript', 'Web'],
+      liveUrl: 'https://planify-proyect-knrd9qz8g-leoaa02s-projects.vercel.app/',
+      repoUrl: 'https://github.com/leoaa02/planify-proyect'
     }
     
   ];
