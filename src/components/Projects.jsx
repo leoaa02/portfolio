@@ -59,7 +59,7 @@ const Projects = () => {
       description: 'Name es una marca de moda de lujo diseñada para transmitir elegancia y autenticidad. Un proyecto que destaca por su estética minimalista, su identidad visual moderna y su enfoque en piezas exclusivas que elevan cualquier estilo.',
       image: '/assets/name-preview.png',
       tags: ['CSS', 'JavaScript', 'Web'],
-      liveUrl: 'https://vercel.com/leoaa02s-projects/name-webpage',
+      liveUrl: 'https://name-webpage.vercel.app/',
       repoUrl: 'https://github.com/leoaa02/name-webpage'
     }
     
