@@ -29,6 +29,7 @@ const Hero = () => {
               data-aos-delay="200"
             >
               Leonardo
+              
             </span>
           </h1>
           
